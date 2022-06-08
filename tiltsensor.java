@@ -1,4 +1,4 @@
-//Tilt Sensor for physical controller 
+//Tilt Sensor for microcontroller 
 
 int inPin = 7; 
 int value;
